@@ -15,3 +15,5 @@ Git workflow example
 `git commit -m 'message here'` - Commit staged files
 
 `git push -u origin {branch name}` - Push the new branch to the upstream called origin
+
+Thanks for watching!
